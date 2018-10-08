@@ -1,0 +1,8 @@
+1. run android studio
+2. start VM device
+3. open terminal
+4. cd to albums folder
+5. react-native run-android
+ 
+debug mode in android emulator:
+CTRL+M
